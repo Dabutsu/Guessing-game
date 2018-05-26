@@ -22,7 +22,7 @@ if __name__=="__main__":
 				print "b= %s " %b
 				licznik +=1
 			else:
-				b = liczba	-1
+				b = liczba -1
 				print 'a= %s' %a
 				print "b= %s " %b
 				licznik +=1
